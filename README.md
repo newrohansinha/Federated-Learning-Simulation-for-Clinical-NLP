@@ -68,7 +68,7 @@ FL-Health/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/FL-Health.git
+git clone https://github.com/yourusername/FL-Health.git](https://github.com/newrohansinha/Federated-Learning-Simulation-for-Clinical-NLP.git
 cd FL-Health
 python -m venv .venv
 source .venv/bin/activate
